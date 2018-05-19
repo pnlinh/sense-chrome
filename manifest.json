@@ -15,7 +15,7 @@
       "48": "icons/logo48.png"
    },
    "manifest_version": 2,
-   "name": "Sense (BS Fork)",
+   "name": "Sense (pnlinh)",
    "permissions": [ "tabs", "clipboardWrite", "http://*/*", "https://*/*", "storage", "webRequest", "webRequestBlocking" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "0.1"
